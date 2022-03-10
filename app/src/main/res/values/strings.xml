@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AttractorTest</string>
+    <string name="profile">Profile</string>
+    <string name="images">Images</string>
+    <string name="education">Education</string>
+    <string name="high_school">High school</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="master">Master</string>
+    <string name="doctoral">Doctoral</string>
+    <string name="unknown_academic_degree">Unknown academic degree</string>
+    <string name="gallery_images">Gallery Images</string>
+    <string name="permission_launcher_message">Permission is granted.</string>
+</resources>

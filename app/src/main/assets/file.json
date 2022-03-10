@@ -1,0 +1,18 @@
+{
+"user": {
+			    "first_name": "Ilon",
+			    "photo" : "https://thumbs.dreamstime.com/b/bright-colorful-sunrise-over-mountains-flowering-field-bright-colorful-sunrise-over-mountains-flowering-field-131853643.jpg",
+			    "second_name": "Mask",
+			    "education": 1,
+			    "company": [
+			      {
+			        "name": "Attractor Software",
+			        "position": "developer"
+			      },
+			      {
+			        "name": "Google",
+			        "position": "developer"
+			      }
+			    ]
+			  }
+}
